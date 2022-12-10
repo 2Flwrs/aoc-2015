@@ -33,7 +33,7 @@ fn part2(data: &str) -> Result<usize> {
             break;
         }
     }
-    Ok(position+1)
+    Ok(position + 1)
 }
 
 #[cfg(test)]
